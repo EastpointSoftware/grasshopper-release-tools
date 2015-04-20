@@ -1,6 +1,6 @@
 {
-  "name": "timetable-release-tools",
-  "description": "Timetable",
+  "name": "grasshopper-release-tools",
+  "description": "Grashsopper release tools",
   "version": "0.0.1",
   "main": "./index.js",
   "homepage": "https://www.timetable.cam.ac.uk/",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/CUL-DigitalServices/timetable-release-tools.git"
+    "url": "git://github.com/CUL-DigitalServices/grasshopper-release-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/CUL-DigitalServices/timetable-release-tools/issues"
+    "url": "https://github.com/CUL-DigitalServices/grasshopper-release-tools/issues"
   },
   "licenses": [
     {
